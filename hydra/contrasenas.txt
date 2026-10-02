@@ -1,0 +1,6 @@
+password
+abc123
+admin
+letmein
+test
+colocolo
